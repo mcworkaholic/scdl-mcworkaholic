@@ -11,7 +11,7 @@ Compatible with Windows, OS X, Linux.
 * ffmpeg
 
 ## Installation Instructions
-https://github.com/mcworkaholic/scdl-mcworkaholic.wiki.git
+https://github.com/mcworkaholic/scdl-mcworkaholic/wiki/Installation-Instructions
 
 ## Configuration
 There is a configuration file left in `~/.config/scdl/scdl.cfg`
